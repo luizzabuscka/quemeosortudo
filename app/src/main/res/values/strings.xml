@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quem e o sortudo</string>
+    <string name="hint_name">Insira um nome</string>
+    <string name="button_add">Adicionar nome</string>
+    <string name="button_sort">Sortear!</string>
+    <string name="text_empty_list">Nenhum nome adicionado</string>
+    <string name="toast_insert_name">Insira um nome</string>
+</resources>
